@@ -7,8 +7,8 @@ It is based on the code from [Create React App](https://github.com/facebookincub
 ## Installation Instructions
 Note that `yarn` can be used in place of `npm` below:
 ```dos
-git clone https://github.com/johnpaxton/sp-react-class
-cd sp-react-class
+git clone https://github.com/janhitha/sp-react-class
+cd react-web-janhitha
 npm install 
 ```
 
